@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+
 class Solution {
     public:
         vector<int> insertionSort(vector<int>& nums) {
@@ -16,5 +18,4 @@ class Solution {
             return nums;
         }
     };
-    
     
